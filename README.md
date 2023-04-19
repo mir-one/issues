@@ -1,9 +1,9 @@
 # Issues
 
-Пространство для предложений и обсуждения багов в продуктах МИР.
+A space for suggestions and discussion of bugs in MIR products
 
-## Здесь вы можете
+## Here you can
 
-1. [Посмотреть прогресс](https://github.com/mir-one/issues/projects/1) по тикетам проекта.
-2. [Оценить/проголосовать/прокомментировать](https://github.com/mir-one/issues/issues) интересующие вас тикеты.
-3. [Создать тикет](https://github.com/mir-one/issues/issues/new) по собственному предложению/проблеме или вопросу.
+1. [View progress](https://github.com/mir-one/issues/projects/1) by project tickets.
+2. [Rate/vote/comment](https://github.com/mir-one/issues/issues ) tickets you are interested in.
+3. [Create Ticket](https://github.com/mir-one/issues/issues/new ) according to their own suggestion/problem or question.
